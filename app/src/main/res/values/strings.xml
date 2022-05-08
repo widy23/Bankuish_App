@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bankuish App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="owner">Owner</string>
+    <string name="details_string">Repository Details</string>
+    <string name="repository_data">Repository Data</string>
+</resources>
