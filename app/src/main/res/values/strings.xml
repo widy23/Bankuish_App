@@ -5,4 +5,6 @@
     <string name="owner">Owner</string>
     <string name="details_string">Repository Details</string>
     <string name="repository_data">Repository Data</string>
+    <string name="error_message">Error Api Service</string>
+    <string name="retry">Try Later</string>
 </resources>

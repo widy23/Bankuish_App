@@ -4,7 +4,7 @@ class Constants {
     companion object {
         const val BASE_URL: String = "https://api.github.com/search/"
         const val LANGUAGE: String = "kotlin"
-        const val PER_PAGE: Int = 20
+        const val PER_PAGE: Int = 30
         const val PAGE: Int = 1
         const val ID: String = "Id"
         const val NAME: String = "Name :"

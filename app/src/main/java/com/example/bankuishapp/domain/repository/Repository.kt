@@ -7,7 +7,7 @@ import retrofit2.Response
 class Repository {
 
 
-    suspend  fun getListToRepository(language :String,per_page :Int,page :Int) : Response<ResponseApi> {
+   suspend   fun getListToRepository(language :String,per_page :Int,page :Int) : Response<ResponseApi> {
         return RetrofitInstance.myApi.getAllGitRepos(language, per_page,page)
     }
 
